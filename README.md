@@ -6,7 +6,7 @@ I’m interested in:
 - Quantitative finance
 - Time-series modeling
 - Statistical learning
-- Data-driven economic analysis
+- Machine learning for economic and financial data
 
 ## Past Projects
 - Quantum harmonic oscillator model for stock return distributions
