@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Harry
 
-<!--
-**harrycxiao/harrycxiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a UCLA student studying mathematics, economics, and statistics.
 
-Here are some ideas to get you started:
+I’m interested in:
+- Quantitative finance
+- Time-series modeling
+- Statistical learning
+- Data-driven economic analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Past Projects
+- Quantum harmonic oscillator model for stock return distributions
+- Dynamic regression (ARIMA + ML) for time-series forecasting
+- Poverty and federal policy regression analysis
+
+## Skills
+- Python (pandas, numpy, statsmodels, scikit-learn)
+- R (regression, bootstrap, statistical analysis)
+- Time-series modeling
+- Econometrics
