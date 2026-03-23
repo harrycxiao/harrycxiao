@@ -1,20 +1,29 @@
 # Hi, I’m Harry
 
-I’m a UCLA student studying mathematics, economics, and statistics.
+UCLA student studying mathematics, economics, and statistics.
 
-I’m interested in:
+I’m interested in quantitative modeling, statistical learning, and applications of
+math and machine learning to financial and economic data.
+
+## Interests
+
 - Quantitative finance
 - Time-series modeling
 - Statistical learning
 - Machine learning for economic and financial data
+- Econometrics
 
 ## Past Projects
+
 - Quantum harmonic oscillator model for stock return distributions
-- Dynamic regression (ARIMA + ML) for time-series forecasting
-- Poverty and federal policy regression analysis
+- ARIMA + ML hybrid models for time-series forecasting
+- Regression analysis of poverty and federal policy data
+- Small Python tools for parsing and data workflows
 
 ## Skills
-- Python (pandas, numpy, statsmodels, scikit-learn)
+
+- Python (numpy, pandas, statsmodels, scikit-learn)
 - R (regression, bootstrap, statistical analysis)
 - Time-series modeling
 - Econometrics
+- Data analysis
