@@ -1,6 +1,6 @@
 # Hi, I’m Harry
 
-UCLA student studying Mathematics/Economics & Data Science Engineering with interests at the intersection of AI, data systems, quantitative modeling, and financial applications.
+UCLA student studying mathematics and data science with interests at the intersection of AI, data systems, quantitative modeling, and financial applications.
 
 I enjoy building systems that transform messy real-world data into structured, usable information. My interests span machine learning, data pipelines, automation, and applying data-driven approaches to business and financial problems.
 
