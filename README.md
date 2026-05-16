@@ -1,32 +1,61 @@
 # Hi, I’m Harry
 
-UCLA student studying Statistics and Data Science with interests in data analysis,
-quantitative modeling, and applications of machine learning to financial and economic data.
+UCLA student studying Mathematics/Economics & Data Science Engineering with interests at the intersection of AI, data systems, quantitative modeling, and financial applications.
 
-I enjoy working with real-world datasets, building models, and creating tools that help
-turn raw data into useful insights.
+I enjoy building systems that transform messy real-world data into structured, usable information. My interests span machine learning, data pipelines, automation, and applying data-driven approaches to business and financial problems.
+
+Currently exploring areas across AI workflows, quantitative modeling, and data engineering.
 
 ## Interests
 
-- Data analytics and statistical modeling
-- Financial and economic data analysis
+- AI workflows and applied machine learning
+- Data engineering and automation
+- Quantitative modeling and financial data
 - Time-series forecasting
-- Machine learning for structured data
-- Data pipelines and automation
+- Statistical learning and analytics
+- Data pipelines and systems design
 
-## Past Projects
+## Projects & Experience
 
-- Built Python tools to parse Excel-based financial models into structured data
-- Developed ARIMA + ML hybrid models for time-series forecasting
-- Modeled financial return distributions using statistical methods
-- Performed regression analysis on economic policy and poverty data
-- Built small scripts for cleaning, transforming, and analyzing datasets
+- Built Python tools to parse complex Excel-based financial models into structured formats for downstream workflows and analysis
+- Developed ARIMA + machine learning hybrid models for financial time-series forecasting and volatility prediction
+- Modeled stock return distributions using statistical and mathematical approaches
+- Built API-driven dashboards and workflow tools using Google Sheets and Retool integrations
+- Performed regression and statistical analysis on economic policy and poverty-related datasets
+- Created scripts and utilities for cleaning, transforming, and analyzing real-world datasets
 
 ## Skills
 
-- Python (pandas, numpy, openpyxl, scikit-learn)
-- R (statistical modeling, regression, data analysis)
-- Excel / PowerBI
-- Data visualization
-- Time-series analysis
+### Languages
+- Python
+- R
+- C++ (basic)
 - SQL (basic)
+
+### Python Libraries & Tools
+- pandas
+- numpy
+- openpyxl
+- scikit-learn
+- pydantic
+
+### Data & Analytics
+- Statistical modeling
+- Regression analysis
+- Time-series analysis
+- Forecasting
+- Data visualization
+
+### Platforms & Tools
+- Excel
+- Power BI
+- Git / GitHub
+- APIs
+- Google Sheets
+- Retool
+
+## Current Focus
+
+- Exploring AI-powered workflows and agent systems
+- Building projects at the intersection of AI, finance, and data
+- Learning more about data infrastructure and scalable systems
