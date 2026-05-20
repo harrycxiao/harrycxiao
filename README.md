@@ -29,8 +29,8 @@ Currently exploring areas across AI workflows, quantitative modeling, and data e
 ### Languages
 - Python
 - R
-- C++ (basic)
-- SQL (basic)
+- SQL
+- C++
 
 ### Python Libraries & Tools
 - pandas
