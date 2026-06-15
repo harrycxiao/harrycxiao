@@ -1,61 +1,51 @@
-# Hi, I’m Harry
+# Hi, I'm Harry 👋
 
-UCLA student studying mathematics and data science with interests at the intersection of AI, data systems, quantitative modeling, and financial applications.
+Mathematics student at **Northwestern University** with interests in quantitative finance, AI systems, data engineering, and applied machine learning. 
 
-I enjoy building systems that transform messy real-world data into structured, usable information. My interests span machine learning, data pipelines, automation, and applying data-driven approaches to business and financial problems.
+I enjoy building systems that transform large amounts of unstructured information into useful insights. My work sits at the intersection of financial data, AI workflows, databases, and quantitative analysis.
 
-Currently exploring areas across AI workflows, quantitative modeling, and data engineering.
+---
 
-## Interests
+### 🚀 Current Focus
+- 🏗️ **Financial Intelligence Pipeline** using PostgreSQL, SQLAlchemy, financial APIs, and AI agents
+- 📊 **Quantitative research**, factor modeling, and financial analytics
+- 💻 **Data infrastructure**, backend systems, and scalable AI workflows
+- 📈 **Machine learning** and statistical methods applied to financial and business problems
 
-- AI workflows and applied machine learning
-- Data engineering and automation
-- Quantitative modeling and financial data
-- Time-series forecasting
-- Statistical learning and analytics
-- Data pipelines and systems design
+---
 
-## Projects & Experience
+### 🧠 Technical Interests
+* 🤖 **AI Agents & Workflow Automation**
+* 📉 **Financial Data Engineering**
+* 🔢 **Quantitative Modeling & Analytics**
+* 🧠 **Machine Learning & Statistical Inference**
+* 🔀 **Data Pipelines & Backend Systems**
 
-- Built Python tools to parse complex Excel-based financial models into structured formats for downstream workflows and analysis
-- Developed ARIMA + machine learning hybrid models for financial time-series forecasting and volatility prediction
-- Modeled stock return distributions using statistical and mathematical approaches
-- Built API-driven dashboards and workflow tools using Google Sheets and Retool integrations
-- Performed regression and statistical analysis on economic policy and poverty-related datasets
-- Created scripts and utilities for cleaning, transforming, and analyzing real-world datasets
+---
 
-## Skills
+### 🛠️ Technologies & Tools
 
-### Languages
-- Python
-- R
-- SQL
-- C++
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` • `SQL` • `C++` • `R` |
+| **Data & AI** | `pandas` • `NumPy` • `scikit-learn` • `PydanticAI` • `OpenAI APIs` |
+| **Databases & Backend** | `PostgreSQL` • `SQLAlchemy` • `FastAPI` |
+| **Other Tools** | `Git` • `Power Platform` (Power BI, Power Automate) • `Retool` • `Excel` |
 
-### Python Libraries & Tools
-- pandas
-- numpy
-- openpyxl
-- scikit-learn
-- pydantic
+---
 
-### Data & Analytics
-- Statistical modeling
-- Regression analysis
-- Time-series analysis
-- Forecasting
-- Data visualization
+### 📂 Current Project
 
-### Platforms & Tools
-- Excel
-- Power BI
-- Git / GitHub
-- APIs
-- Google Sheets
-- Retool
+#### Financial Intelligence Pipeline
+Building a multi-agent financial intelligence platform that combines SEC filings, market data, financial statements, and news data to support AI-assisted investment research and quantitative analysis.
 
-## Current Focus
+**Current areas of development include:**
+* 📥 **Financial data ingestion and storage**
+* 🗄️ **PostgreSQL database design and querying**
+* 📊 **Quantitative analytics and factor modeling**
+* 🤖 **Agent-based research workflows**
+* 📝 **Financial research report generation**
 
-- Exploring AI-powered workflows and agent systems
-- Building projects at the intersection of AI, finance, and data
-- Learning more about data infrastructure and scalable systems
+---
+
+📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/harry-xiao-n1h) | [Email](mailto:xiaoharryn1@gmail.com)
