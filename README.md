@@ -1,25 +1,25 @@
 # Hi, I'm Harry 👋
 
-Mathematics student at **Northwestern University** with interests in quantitative finance, AI systems, data engineering, and applied machine learning. 
+Mathematics student at **Northwestern University** with interests in quantitative finance, AI systems, financial data engineering, and applied machine learning.
 
-I enjoy building systems that transform large amounts of unstructured information into useful insights. My work sits at the intersection of financial data, AI workflows, databases, and quantitative analysis.
+I enjoy building systems that transform large amounts of financial and business data into quantitative investment insights. My work sits at the intersection of quantitative finance, AI systems, software engineering, data engineering, and machine learning.
 
 ---
 
 ### 🚀 Current Focus
-- 🏗️ **Financial Intelligence Pipeline** using PostgreSQL, SQLAlchemy, financial APIs, and AI agents
-- 📊 **Quantitative research**, factor modeling, and financial analytics
-- 💻 **Data infrastructure**, backend systems, and scalable AI workflows
-- 📈 **Machine learning** and statistical methods applied to financial and business problems
+- 🏗️ **Multi-Agent Quantitative Financial Intelligence Platform** integrating market data, SEC filings, financial statements, and news
+- 📊 **Quantitative research**, factor modeling, portfolio analytics, and systematic investing
+- 💻 **Data engineering**, backend systems, and scalable AI applications
+- 🤖 **LLM agents** and AI-assisted financial research
 
 ---
 
 ### 🧠 Technical Interests
-* 🤖 **AI Agents & Workflow Automation**
-* 📉 **Financial Data Engineering**
-* 🔢 **Quantitative Modeling & Analytics**
-* 🧠 **Machine Learning & Statistical Inference**
-* 🔀 **Data Pipelines & Backend Systems**
+- 📈 **Quantitative Finance & Systematic Investing**
+- 🤖 **AI Agents & Workflow Automation**
+- 📉 **Financial Data Engineering**
+- 🔢 **Machine Learning & Statistical Modeling**
+- ⚙️ **Backend Systems & Data Infrastructure**
 
 ---
 
@@ -27,25 +27,30 @@ I enjoy building systems that transform large amounts of unstructured informatio
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` • `SQL` • `C++` • `R` |
-| **Data & AI** | `pandas` • `NumPy` • `scikit-learn` • `PydanticAI` • `OpenAI APIs` |
+| **Languages** | `Python` • `TypeScript` • `SQL` • `C++` • `R` |
+| **AI & Data Science** | `pandas` • `NumPy` • `scikit-learn` • `PydanticAI` • `OpenAI APIs` |
 | **Databases & Backend** | `PostgreSQL` • `SQLAlchemy` • `FastAPI` |
-| **Other Tools** | `Git` • `Power Platform` (Power BI, Power Automate) • `Retool` • `Excel` |
+| **Data Engineering** | `PySpark` • `Microsoft Fabric` |
+| **Other Tools** | `Git` • `React` • `Power Platform` • `Retool` • `Excel` |
 
 ---
 
 ### 📂 Current Project
 
-#### Financial Intelligence Pipeline
-Building a multi-agent financial intelligence platform that combines SEC filings, market data, financial statements, and news data to support AI-assisted investment research and quantitative analysis.
+## Multi-Agent Quantitative Financial Intelligence Platform
+
+Building a modular quantitative financial intelligence platform that integrates market data, SEC filings, financial statements, and news into a unified research environment for AI-assisted investment analysis. The platform combines financial data engineering, quantitative research, predictive modeling, portfolio optimization, AI-powered report generation, and interactive research tools into a unified modular architecture.
 
 **Current areas of development include:**
-* 📥 **Financial data ingestion and storage**
-* 🗄️ **PostgreSQL database design and querying**
-* 📊 **Quantitative analytics and factor modeling**
-* 🤖 **Agent-based research workflows**
-* 📝 **Financial research report generation**
+- 📥 **Financial data ingestion and ETL pipelines**
+- 🗄️ **PostgreSQL database architecture and querying**
+- 📊 **Factor modeling, predictive modeling, and portfolio optimization**
+- 🤖 **Multi-agent AI research workflows**
+- 📑 **Automated investment research report generation**
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/harry-xiao-n1h) | [Email](mailto:xiaoharryn1@gmail.com)
+### 📬 Connect with Me
+
+- 💼 **LinkedIn:** https://linkedin.com/in/harry-xiao-n1h
+- 📧 **Email:** xiaoharryn1@gmail.com
